@@ -1,0 +1,15 @@
+outlook,Temperature,class
+sunny,hot,NoPlay
+sunny,hot,NoPlay
+overcast,hot,Play
+rainy,mild,Play
+rainy,cool,Play
+rainy,cool,NoPlay
+overcast,cool,Play
+sunny,mild,NoPlay
+sunny,cool,Play
+rainy,mild,Play
+sunny,mild,Play
+overcast,mild,Play
+overcast,hot,Play
+rainy,mild,NoPlay

@@ -1,0 +1,4 @@
+Attribute,Info_Gain,Gini_Index
+outlook,0.247,0.320
+Temperature,0.029,0.411
+class,0.940,0.000
